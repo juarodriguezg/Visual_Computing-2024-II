@@ -1,0 +1,6 @@
+Create an OBJ model of a building, an animal, or a thing using Blender or any 3D modelling program.
+
+Requirements:
+Create a short video (or a document with screenshots) showing the modeling process.
+The video can have jumps to show very quickly the most important aspects of the model creation.
+Export the model to an OBJ file.
